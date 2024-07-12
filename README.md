@@ -28,8 +28,10 @@ Bilibili: 老年人Captain
 
 ***下载地址：在release中***
 ## 小爱同学pc版安装包：
-1. 链接: 链接：https://pan.baidu.com/s/1XwwLJ0KpWAwQpmsE55bIGw?pwd=1111 
-2. 提取码：1111 
+我自己配置的文件:
+1. 唤醒词:拯救者
+2. 链接: 链接：https://pan.baidu.com/s/1XwwLJ0KpWAwQpmsE55bIGw?pwd=1111 
+3. 提取码：1111 
 
 
 
