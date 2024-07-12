@@ -11,20 +11,20 @@ Bilibili: 老年人Captain
 
 ***使用说明：***
 
-下载最新版！！！
+## 下载最新版！！！
+## 配置
+1. 解压缩到你希望永久存放这个工具的文件夹，而不是桌面或者临时文件夹。
 
-解压缩到你希望永久存放这个工具的文件夹，而不是桌面或者临时文件夹。
+2. 去https://console.picovoice.ai/ 登入，按照视频教程做一个自己的唤醒词，然后下载，解压，重命名为Wakeup.ppn，然后替换文件夹中的Wakeup.ppn！！！
 
-去https://console.picovoice.ai/ 登入，按照视频教程做一个自己的唤醒词，然后下载，解压，重命名为Wakeup.ppn，然后替换文件夹中的Wakeup.ppn！！！
+3. 然后在配置文件set.ini中修改key为你的key,Key也可以在https://console.picovoice.ai/ 中找到！！视频忘说这一步了。
 
-然后在配置文件set.ini中修改key为你的key,Key也可以在https://console.picovoice.ai/ 中找到！！视频忘说这一步了。
+4. 最后就可以使用设置工具来启动语音监听功能了。
 
-最后就可以使用设置工具来启动语音监听功能了。
+## 调试
+1. 其中Wakeup.ppn是唤醒词文件，set.ini是设置灵敏度的，xiaoai.exe就是原来那个启动小爱的工具，你也可以继续绑定鼠标宏。
 
-
-其中Wakeup.ppn是唤醒词文件，set.ini是设置灵敏度的，xiaoai.exe就是原来那个启动小爱的工具，你也可以继续绑定鼠标宏。
-
-PS：porcupine_params_zh.pv文件是中文模型，如果你希望使用英文唤醒词，请下载官方英文模型然后重命名为porcupine_params_zh.pv替换现有的。https://github.com/Picovoice/porcupine/tree/master/lib/common
+2. PS：porcupine_params_zh.pv文件是中文模型，如果你希望使用英文唤醒词，请下载官方英文模型然后重命名为porcupine_params_zh.pv替换现有的。https://github.com/Picovoice/porcupine/tree/master/lib/common
 
 ***下载地址：在release中***
 小爱同学pc版安装包：
